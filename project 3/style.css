@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>colour</title>
+    <link rel="stylesheet" href="colour.css" />
+    <style>
+        body {
+            background-color: #756c6c;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+</head>
+<body>
+    
+</body>
+</html>
